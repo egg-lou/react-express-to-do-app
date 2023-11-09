@@ -1,0 +1,4 @@
+node_modules/
+yarn.lock
+db.sqlite
+/node_modules
